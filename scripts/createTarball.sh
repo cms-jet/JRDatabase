@@ -2,7 +2,7 @@
 
 # Create a tarball for a list of JER text files
 
-CORRECTIONS="MC_PtResolution MC_PhiResolution DATAMCSF"
+CORRECTIONS="PtResolution PhiResolution DATAMCSF"
 
 P=$1
 
