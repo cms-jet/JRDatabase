@@ -8,4 +8,4 @@ sed -i.backup s/6\ \ \ \ \ \ 15\ \ \ \ 3/6\ \ \ \ \ \ 30\ \ \ \ 3/ file.txt
 
 Rename all matching files in a directory:
 
-rename s/V10/V10b *
+rename s/V10/V10b/ *
